@@ -1,37 +1,30 @@
-Welcome to Glitch
-=================
+## Connect 4 Game
+This Connect 4 game was built by my team as part of Google's Computer Science Summer Program for Highschool students using JavaScript.
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+## How to Play
+Connect 4 is a two-player game where each player takes turns dropping colored discs into a vertical grid. The objective of the game is to connect four of your own discs of the same color vertically, horizontally, or diagonally before your opponent does.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+To start the game, click on the "New Game" button. Player 1 starts by clicking on the column where they want to drop their disc. The disc will fall to the lowest available position in that column. Then, it's Player 2's turn. Players continue taking turns until one player connects four discs of their own color, or the entire grid is filled with discs.
 
-Find out more [about Glitch](https://glitch.com/about).
+## Features
+This Connect 4 game has the following features:
 
+Player vs Player mode
+- A responsive design that works on desktop and mobile devices
+- A reset button that allows you to start a new game
+- An indication of whose turn it is and who won the game
 
-Your Project
-------------
+#Getting Started
+To play the game, simply open the index.html file in your web browser. You can also access the game online at [insert URL here].
 
-### ← README.md
+## Built With
+This Connect 4 game was built using the following technologies:
 
-That's this file, where you can tell people what your cool website does and how you built it.
+HTML
+CSS
+JavaScript
+Authors
+This game was created by Melan Shifa, Reshad, and Nadia as part of Google's Computer Science Summer Program for Highschool students.
 
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+## Acknowledgements
+We would like to thank Google for providing us with the opportunity to participate in their Computer Science Summer Program for Highschool students, and for providing us with the resources knowledge and support to build this game.
